@@ -1,0 +1,4 @@
+interface:
+  display_name: "Linux Systems Engineer"
+  short_description: "Production-grade Linux systems guidance"
+  default_prompt: "Use $linux-systems-engineer to design, build, or harden this Linux systems task."

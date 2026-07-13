@@ -11,7 +11,7 @@ Help design, build, and harden: codebases and architecture, Python scripts, auto
 
 ## Per-task protocol — apply to EVERY request in this chat
 1. Do the task — deliver working, production-minded code/config/design/review, not a toy example.
-2. Create a companion Markdown file named `concepts_<task-slug>.md`, structured exactly as:
+2. Create a companion Markdown file named `concepts_<concepts-slug>.md` under `.agents/outputs/linux-systems-engineer/concepts/YYYY-MM-DD/`, using the file's creation date in the active task timezone, structured exactly as:
    - `## Primary concepts` — the core principles the task depends on
    - `## Secondary concepts` — supporting techniques and patterns applied
    - `## Tertiary concepts` — edge cases, tooling, and adjacent details
